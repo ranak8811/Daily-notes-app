@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="light_coral">#F08080</color>
+    <color name="light_slate_gray">#778899</color>
+    <color name="light_sea_green">#20B2AA</color>
+    <color name="light_green">#90EE90</color>
+    <color name="light_blue">#ADD8E6</color>
+    <color name="light_steel_blue">#B0C4DE</color>
+    <color name="light_sky_blue">#87CEFA</color>
+    <color name="light_salmon">#FFA07A</color>
+    <color name="light_yellow">#FFFFE0</color>
+    <color name="light_pink">#FFB6C1</color>
+    <color name="light_goldenrod">#FFEC8B</color>
+    <color name="light_cyan">#E0FFFF</color>
+    <color name="light_orchid">#E6A8D7</color>
+    <color name="light_magenta">#FF77FF</color>
+    <color name="light_turquoise">#AFEEEE</color>
+    <color name="light_indian_red">#CD5C5C</color>
+    <color name="light_violet">#C9A0DC</color>
+    <color name="light_purple">#BA55D3</color>
+    <color name="light_slate_blue">#8470FF</color>
+    <color name="light_cornflower_blue">#93CCEA</color>
+    <color name="light_tan">#ECD5C6</color>
+    <color name="light_khaki">#F0E68C</color>
+    <color name="light_goldenrod_yellow">#FAFAD2</color>
+    <color name="light_beige">#F5F5DC</color>
+    <color name="light_lavender">#E6E6FA</color>
+    <color name="light_peach">#FFDAB9</color>
+
+</resources>
